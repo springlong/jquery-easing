@@ -48,9 +48,7 @@ $('#box').animate({width: 300}, 1000, 'easeOutQuad');
 
 ```
 
-为了快速选择合适的缓动算法，我们特地以图片的水平滑动切换、图片的淡入淡出两种常见的幻灯片效果制作了一份案例演示：
-
-[查看demo案例](//htmlpreview.github.io/?https://github.com/springlong/jquery-easing/blob/master/demo/easing.html)
+为了快速选择合适的缓动算法，我们特地以图片的水平滑动切换、图片的淡入淡出两种常见的幻灯片效果制作了一份案例演示：[查看demo案例](//htmlpreview.github.io/?https://github.com/springlong/jquery-easing/blob/master/demo/easing.html)
 
 ## 参考
 
