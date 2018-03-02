@@ -44,7 +44,7 @@ jQuery Easing插件为jQuery提供了10种缓动行为，而每种缓动行为�
 ```JS
 
 //二次方(t^2)从0开始加速的缓动
-$("#box").animate({width: 300}, 1000, "easeOutQuad");
+$('#box').animate({width: 300}, 1000, 'easeOutQuad');
 
 ```
 
